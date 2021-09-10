@@ -8,7 +8,7 @@ J'utilise les technos suivantes 👀:
 | JS               | Lumen   |
 | CSS / SCSS       | MySQL   |
 | Bootsrap / Bulma | Symfony en cours d'apprentissage |
-| HYML             |     |
+| HTML             |     |
 
 Vous pourrez trouver ici les différents projets que j'ai réalisé. 
 
