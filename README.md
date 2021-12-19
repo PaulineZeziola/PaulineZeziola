@@ -7,7 +7,7 @@ J'utilise les technos suivantes 👀:
 | React / Redux    | PHP     | 
 | JS               | Lumen   |
 | CSS / SCSS       | MySQL   |
-| Bootsrap / Bulma |  |
+| Bootsrap / Bulma |  Symfony en cours d'apprentissage|
 | HTML             |     |
 
 Vous pourrez trouver ici les différents projets que j'ai réalisé. 
